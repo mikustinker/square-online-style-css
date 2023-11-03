@@ -1,0 +1,19 @@
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="border-right: 1px dashed #373734; padding: 0 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <h3 style='color: #373734; text-align: center; font-family: "Amiko Regular" !important; font-size: 26px !important;'>Autumn Sale</h3>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+    <div style="border-right: 1px dashed #373734; padding: 0 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <h3 style="color: #373734; text-align: center; font-family: 'Amiko Regular' !important; font-size: 26px !important;">30% OFF Cat Food</h3>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+    <div style="border-right: 1px dashed #373734; padding: 0 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <h3 style="color: #373734; text-align: center; font-family: 'Amiko Regular' !important; font-size: 26px !important;">Dog Gear Collectione</h3>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+    <div style="padding: 0 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <h3 style="color: #373734; text-align: center; font-family: 'Amiko Regular' !important; font-size: 26px !important;">Join Our Loyalty Program</h3>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+</div>
