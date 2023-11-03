@@ -1,3 +1,5 @@
-body {
-    background-color: blue;
+.banner-slide-wrapper div[data-v-54fd6eb4].text-component h6 {
+    font-family: "Amiko" !important;
+    font-size: 24px !important;
+    line-height: 32px !important;
 }
