@@ -30,7 +30,7 @@ div[data-v-20b0e156].container.container--flush-horizontal.content-align--center
     padding-block: 20px 80px !important;
 }
 
-@media only screen and (max-width: 1399px) {
+@media only screen and (max-width: 840px) {
     div[data-v-c4134d44][data-v-ea7041d0].grid {
         grid-template-columns: 1fr 1fr 1fr 1fr !important;
     }  
