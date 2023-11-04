@@ -1,23 +1,76 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <link rel="stylesheet" href="style.css">
-    <script src='main.js'></script>
-</head>
-<body>
-   Hello World! 
-</body>
-</html>
+<div class="statistics">
+    <div class="statistics-item">
+        <h3>Autumn Sale</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+    <div class="statistics-item">
+        <h3>30% OFF Cat Food</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+    <div class="statistics-item">
+        <h3>Dog Gear Collection</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+    <div class="statistics-item">
+        <h3>Join Our Loyalty Program</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    </div>
+</div>
 
-<script>
-    document.head.insertAdjacentHTML("beforeend", `<style>
-        a[data-v-6dd1f078] {
-            text-align: left !important;
+<style>
+    @media only screen and (min-width: 768px) {
+      .statistics {
+        display: flex;
+      }
+      .statistics-item {
+        border-right: 1px dashed #373734;
+        padding: 0 10px;
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+      }
+      .statistics-item:last-child {
+        border-right: none;
+      }
+      h3 {
+        color: #373734; text-align: center; font-family: fangsong !important; font-size: 26px !important;
+      }
+      p {
+        font-family: system-ui;
+        font-weight: 500;
+        text-align: center;
+      }
+    }
+  
+    @media only screen and (max-width: 767px) {
+        .statistics {
+            display: block;
         }
-    </style>`);
-</script>
+        h3 {
+            color: #373734; text-align: center; font-family: fangsong !important; font-size: 26px !important;
+        }
+        p {
+            font-family: system-ui;
+            font-weight: 500;
+            text-align: center;
+        }
+    }
+</style>
+
+<a href="/shop" class="custom-btn" style="">View All Brands</a>
+
+background-color: rgb(215, 213, 186)
+
+<a href="/shop" class="custom-btn">View All Brands</a>
+
+<style>
+    .custom-btn {
+        background-color: #B1ACA0; color: #373734; text-decoration: none; padding: 20px 80px; font-family: 'system-ui';
+        font-weight: 500;
+        transition: 0.3s;
+    }
+    .custom-btn:hover {
+        background-color: rgb(215, 213, 186);
+    }
+</style>
