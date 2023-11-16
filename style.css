@@ -138,3 +138,6 @@ div[data-v-614c05a6][data-v-40baedea].w-container.row[data-v-ab1ca44a] span[data
 div.container[data-v-20b0e156].content-align--center {
     padding-bottom: 0 !important;
 }
+div.container[data-v-20b0e156].content-align--center div[data-v-614c05a6][data-v-f6b48054].w-container.col {
+    padding-bottom: 48px !important;
+  }
