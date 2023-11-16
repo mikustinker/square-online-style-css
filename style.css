@@ -115,10 +115,21 @@ button[data-v-4eeeb730][data-v-a10a13dc].button.📚19-6-0vQBWk.📚19-6-0wcHKQ.
 button[data-v-4eeeb730][data-v-a10a13dc].button.📚19-6-0vQBWk.📚19-6-0wcHKQ.📚19-6-0S6z9M.📚19-6-0_N8aS.w-button.w-button--button.w-button--primary.w-button--large.w-button--full-width-mobile p {
     color: rgb(55, 55, 52) !important;
 }
-
+/* Second part */
 button[data-v-4eeeb730][data-v-a10a13dc].button {
     color: #373734 !important;
     height: 65px !important;
     width: 240px !important;
     padding-inline: 0 !important;
+}
+
+button[data-v-4eeeb730][type="button"].📚19-6-2vQBWk.📚19-6-2wcHKQ.📚19-6-2S6z9M.📚19-6-2_N8aS.w-button.w-button--button.w-button--primary.w-button--large.w-button--full-width-mobile[data-v-ab1ca44a] {
+    color: #373734 !important;
+    height: 65px !important;
+    width: 220px !important;
+    padding-inline: 0 !important;
+}
+
+span[data-v-42a285ae].figure__aspect-ratio.object-fit--cover {
+    padding-top: 58% !important;
 }
