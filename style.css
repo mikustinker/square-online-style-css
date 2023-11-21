@@ -193,3 +193,14 @@ div[data-v-301e84c2][data-v-31605ed0]#PwMXOc.w-block-wrapper.banner[type="block"
     color: #373734 !important;
     font-weight: 700;
 }
+
+@media only screen and (max-width: 992px) {
+    div[data-v-7a3dc568][data-v-bf3de280].w-grid.visible {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    div[data-v-7a3dc568][data-v-bf3de280].w-grid.visible {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+}
