@@ -170,4 +170,6 @@ div[data-v-7a3dc568].grid__item div[data-v-ab1ca44a][data-v-8416fcc4].w-wrapper 
 }
 div[data-v-7a3dc568].grid__item div[data-v-8416fcc4].thumbnail.aspect-ratio-4_3 {
     padding-top: 59% !important;
+    border-radius: 10px;
+    border: 1px solid #515A60 !important;
 }
