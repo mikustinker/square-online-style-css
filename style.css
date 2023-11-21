@@ -160,3 +160,10 @@ a[data-v-8416fcc4] div[data-v-54fd6eb4].text-component.📚19-6-2uGevg {
 a[data-v-8416fcc4]:hover div[data-v-54fd6eb4].text-component.📚19-6-2uGevg { 
     background-color: #d7d5ba;
 }
+div[data-v-7a3dc568].grid__item div[data-v-ab1ca44a][data-v-8416fcc4].w-wrapper a[data-v-8416fcc4][data-v-ab1ca44a] p[data-v-54fd6eb4][data-v-8416fcc4].text-component.rss-article-date {
+    font-weight: bold !important;
+    font-size: 16px !important;
+}
+div[data-v-7a3dc568].grid__item div[data-v-ab1ca44a][data-v-8416fcc4].w-wrapper a[data-v-8416fcc4][data-v-ab1ca44a] h5[data-v-54fd6eb4][data-v-8416fcc4].text-component.rss-article-title {
+    font-size: 32px !important;
+}
