@@ -197,6 +197,14 @@ div[data-v-301e84c2][data-v-31605ed0]#PwMXOc.w-block-wrapper.banner[type="block"
     display: flex;
 }
 
+div[data-v-54e2e9da].w-grid.visible div[data-v-6bcfc41e][data-v-399545cd].w-cell.image-col.col.col-4.col-sm-12[data-v-614c05a6] {
+    height: 55px;
+}
+div[data-v-54e2e9da].w-grid.visible div[data-v-6bcfc41e][data-v-399545cd].w-cell.image-col.col.col-4.col-sm-12[data-v-614c05a6] img {
+    height: 55px;
+    object-position: bottom;
+}
+
 #ea33f5c1-99dd-11ee-a96c-edf986ac3028.basic-text .container[data-v-20b0e156] {
     padding-bottom: 10px;
 }
